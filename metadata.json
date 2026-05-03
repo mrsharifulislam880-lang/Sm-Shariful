@@ -1,0 +1,6 @@
+{
+  "name": "CTN Counting Report Generator",
+  "description": "Professional tool for generating garment export carton counting reports with auto-calculation and Excel-style grid layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
